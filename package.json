@@ -1,0 +1,35 @@
+{
+  "name": "ieee-dtmc-complete-learning",
+  "version": "2.0.0",
+  "description": "Complete learning experience for IEEE 802.15.6 DTMC with interactive tutorial and simulation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  },
+  "keywords": [
+    "IEEE 802.15.6",
+    "DTMC",
+    "Markov Chain",
+    "Wireless Networks",
+    "WBAN",
+    "Mathematics Tutorial",
+    "Interactive Learning",
+    "Simulation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
